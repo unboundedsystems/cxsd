@@ -67,7 +67,7 @@ export class Context extends cxml.ContextBase<Context, Namespace> {
 				'duration time',
 				'string'
 			], [
-				'anytype',
+				'anytype anysimpletype',
 				'any'
 			]
 		];
